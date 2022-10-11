@@ -6,12 +6,13 @@
 ## Etapa 2. - Definición de solución.
 
 1. Entrada:
--díaInicio
--díaFin
--horaInicio
--horaFinal
+- díaInicio
+- díaFin
+- horaInicio
+- horaFinal
 
 2. Procesos:
+
 - Sumar las horas de la diferencia del día posterior menos el día anterior.
 
 3.Salida:
