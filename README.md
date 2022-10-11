@@ -33,4 +33,5 @@
 
 ![](https://github.com/Luxtred/T3A2---Ejercicio-02/blob/main/T3A2.png)
 
-##Etapa 4
+## Etapa 4
+- Desarrollo de la solución
