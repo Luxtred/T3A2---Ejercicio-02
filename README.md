@@ -6,8 +6,27 @@
 ## Etapa 2. - Definición de solución.
 
 1. Entrada:
-- Día Inicio: Solicitar el dia que ingreso durante la semana
-- Día Fin: Solicitar el dia que se retiro en la semana.
+-díaInicio
+-díaFin
+-horaInicio
+-horaFinal
 
 2. Procesos:
--Hora de inicio 
+- Sumar las horas de la diferencia del día posterior menos el día anterior.
+
+3.Salida:
+~~~
++-----------------------------------------------------+
+|DIFERENCIAS DE HORAS EBTRE DOS LAPSOS DE TIEMPO      |
+|-----------------------------------------------------|
+| Día Inicial: Martes      Hora de Inicio: 8:00 hrs   | 
+| Dia final: Jueves        Hora fin: 10:00 hrs        |   
+|-----------------------------------------------------|
+| Han transcurrido # horas desde el día martes al día |
++-----------------------------------------------------+
+ ~~~
+ 
+##Etapa 3
+
+
+##Etapa 4
