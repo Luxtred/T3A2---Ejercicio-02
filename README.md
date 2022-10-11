@@ -27,6 +27,7 @@
  ~~~
  
 ##Etapa 3
-
+Diagrama de Clase:
+![]()
 
 ##Etapa 4
